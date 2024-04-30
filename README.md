@@ -2,7 +2,7 @@
 
 **Hello! This is the open booklet for the Openscapes Reflections Program, an open data science coaching program for researchers and those who support research.**
 
-Openscapes Reflections Program, modeled after leadership coaching, offers structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
+This is a copy of the Reflections booklet that I am using for my reflections. Openscapes Reflections Program, modeled after leadership coaching, offers structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
 Learn more about Openscapes at <https://openscapes.org>.
 
