@@ -7,7 +7,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
-
+I work best in the mornings. I like to work as part of a time. I like to understand what is expected of me and what the culture of the groups is. I like to be able to both listen and share ideas to work collaboratively.
 
  
 
@@ -67,7 +67,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
-
+I typically do my writing in word, but I have also used LaTeX with Overleaf. I work well when I can take breaks to move my body. I work well when I feel my input and ideas are valued and listened to. I like to use paperpile to manage citations and have also used Zotero and the free cite while your write version of EndNote. To connect software to files I usually use R, but I sometimes also use python, MatLab, SQL, and Javascript if that is easier. I used git and GitHub to manage software versions and am starting to use GitLab here at USGS. to analyze data or images I use Google Earth Engine, ArcGIS Pro, QGIS, R, and python. I am also starting to use python in the USGS pangeo environment to access remote sensing files using AWS.
   
 
  
@@ -105,7 +105,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
-  
+ I write notes to myself in a to-do list in a calendar and in my lab notebook. I also use commit messages when I am doing coding. When I am writing I add comments directly into the word document. To find things weekly or after a month or a year I look back at my lab notes, to-do lists, and commit messages.  
 
  
 
@@ -138,7 +138,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
+For sharing files I use Google Drive or share files in a shared Google Earth Engine environment. I have tried creating shared GitHub repositories for collaborative coding but haven't worked on that successfully. For paper writing I usually send a word document and ask for tracked changes. I have also worked on writing where we use a shared Google Doc or Overleaf with tracked changes. When publishing manuscripts I also share data and code through DRYAD and Zenodo. I also usually schedule regular check-in meetings with the team I am working with to coordinate our activities.  
 
  
 
@@ -176,7 +176,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
+I like that I have found ways to work collaboratively and that I have tried different tools and found ones that I like more like R, Google Earth Engine, and PaperPile.
   
 
  
@@ -225,7 +225,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-
+When I am creating figures it seems like I often rewrite the same code. I also tend to use a lot of repetitive code which I think could be converted to functions. It also seems like I have to switch my workflows to different plat forms when I switch to a new organization. At USGS we aren't allowed to use PaperPile so I am now using Zotero. I try my best to follow open Science and Data practices but I am still working on it. I would like to make my work for open and accessible overall.
   
 
  
@@ -271,8 +271,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
-
+I have a few GitHub and Google Earth Engine repositories from research projects that I haven't published yet. I think it would be helpful to work on cleaning those use and sharing them publicly.
  
 
   
