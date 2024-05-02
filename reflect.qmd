@@ -67,7 +67,7 @@ I work best in the mornings. I like to work as part of a team. I like to underst
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
-I typically do my writing in word, but I have also used LaTeX with Overleaf. I work well when I can take breaks to move my body. I work well when I feel my input and ideas are valued and listened to. I like to use paperpile to manage citations and have also used Zotero and the free cite while your write version of EndNote. To connect software to files I usually use R, but I sometimes also use python, MatLab, SQL, and Javascript if that is easier. I used git and GitHub to manage software versions and am starting to use GitLab here at USGS. to analyze data or images I use Google Earth Engine, ArcGIS Pro, QGIS, R, and python. I am also starting to use python in the USGS pangeo environment to access remote sensing files using AWS.
+I typically do my writing in word, but I have also used LaTeX with Overleaf. I work well when I can take breaks to move my body. I work well when I feel my input and ideas are valued and listened to. I like to use paperpile to manage citations and have also used Zotero and the free cite while your write version of EndNote. To connect software to files I usually use R, but I sometimes also use python, MatLab, SQL, and Javascript if that is easier. I used git and GitHub to manage software versions and am starting to use GitLab here at USGS. to analyze data or images I use Google Earth Engine, ArcGIS Pro, QGIS, R, and python. I am also starting to use python in the USGS pangeo environment to access remote sensing files using AWS. I also use .csv and .GeoTiff files. I liked the suggestion to use GitHub to track data file versions in addition to code versions.
   
 
  
@@ -105,7 +105,7 @@ I typically do my writing in word, but I have also used LaTeX with Overleaf. I w
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
- I write notes to myself in a to-do list in a calendar and in my lab notebook. I also use commit messages when I am doing coding. When I am writing I add comments directly into the word document. To find things weekly or after a month or a year I look back at my lab notes, to-do lists, and commit messages.  
+ I write notes to myself in a to-do list in a calendar and in my lab notebook. I also use commit messages when I am doing coding. When I am writing I add comments directly into the word document. To find things weekly or after a month or a year I look back at my lab notes, to-do lists, and commit messages. When uploading data to Google Earth Engine I have to click a few times for each file it would be nice to not have to to that each time. 
 
  
 
@@ -176,7 +176,7 @@ For sharing files I use Google Drive or share files in a shared Google Earth Eng
 
 *There are good things about your workflow. What feels good to you?*
 
-I like that I have found ways to work collaboratively and that I have tried different tools and found ones that I like more like R, Google Earth Engine, and PaperPile.
+I like that I have found ways to work collaboratively and that I have tried different tools and found ones that I like more like R, Google Earth Engine, and PaperPile. I like when I am able to easily collaborate with others on code like in the Google Earth Engine code editor. I think GitHub woudl also be great for that but I haven't been able to implement that successfully.
   
 
  
@@ -225,7 +225,7 @@ I like that I have found ways to work collaboratively and that I have tried diff
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-When I am creating figures it seems like I often rewrite the same code. I also tend to use a lot of repetitive code which I think could be converted to functions. It also seems like I have to switch my workflows to different plat forms when I switch to a new organization. At USGS we aren't allowed to use PaperPile so I am now using Zotero. I try my best to follow open Science and Data practices but I am still working on it. I would like to make my work for open and accessible overall.
+When I am creating figures it seems like I often rewrite the same code. I also tend to use a lot of repetitive code which I think could be converted to functions. It also seems like I have to switch my workflows to different plat forms when I switch to a new organization. At USGS we aren't allowed to use PaperPile so I am now using Zotero. I try my best to follow open Science and Data practices but I am still working on it. I would like to make my work for open and accessible overall. I would like uploading files to the cloud (like GEE) to not require a lot of clicking. I would like to have a better way to reference and save versions of data files.
   
 
  
