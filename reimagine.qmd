@@ -10,7 +10,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 <!---p.1--->
 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
-
+Last week getting old workflows cleaned up and published along with figure out how to collaborate on work flows more effectively and navigate between different platforms and different organizations were top of mine. Another theme was finding was to speed up repetitive tasks like uploading raster files to Google Earth Engine. Another place that feels clunky is how I save and store different versions of data files. In past projects I have ended up with a bunch of versions of the same data file. I know that there are options to store versions of data files similar to code like with the large file service, but some of my data files are large so I am concerned about storage in GitHub because I only have the free account for my personal GitHub.
 
  
 
@@ -62,13 +62,14 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 :::
 
 ## Where within your workflow seems like a good place to start iterating?
-
+One good place to start iterating is on how I am storing, and collaborating on my code and data. I asked two different groups about creating GitHub or GitLab projects where we could start doing project management together for some of our work.
+I'm also motivated to work on cleaning up and making some of my past workflows public.
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 <!---p.2--->
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
-
+Finding was to collaborate more is motivating to me because I like working collaboratively and get energy from that interaction but that is missing in my day to day work. I also want to clean up and share my past workflows so that that can create other opportunities for collaboration.
   
 
  
@@ -101,12 +102,15 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 ## Think of a good workflow you’ve seen. What felt good about it? 
 
+With some really nice workflows I have seen they are really organized and easy to understand. I am able to implement them without much trouble and I can find the data that I need easily. The workflows also work well in whatever environment they are being run in not just my computer environment. A really good workflow was for the collaborative R2R papers and Art + Science symposium.
+
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 <!---p.2--->
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
+There was a lot of opportunity for everyone to provide input. People were excited about the project and their ideas were incorporated. We used tools to track our progress like google forms and google docs. The expectations for different people to contribute were also clear. It was fun and we were able to accomplish a lot more together than we would have been able to accomplish alone. 
   
 
  
@@ -138,7 +142,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 :::
 
 ## What have you seen or heard about that has you curious? 
-
+I'm curious about the file tracking system that Ileana mentioned for her workflow. I'm also really curious about using GitHub projects for cross team coordination.
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 <!---p.2--->
