@@ -110,7 +110,8 @@ With some really nice workflows I have seen they are really organized and easy t
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-There was a lot of opportunity for everyone to provide input. People were excited about the project and their ideas were incorporated. We used tools to track our progress like google forms and google docs. The expectations for different people to contribute were also clear. It was fun and we were able to accomplish a lot more together than we would have been able to accomplish alone. 
+There was a lot of opportunity for everyone to provide input. People were excited about the project and their ideas were incorporated. We used tools to track our progress like google forms and google docs. The expectations for different people to contribute were also clear. It was fun and we were able to accomplish a lot more together than we would have been able to accomplish alone. Having group norms is also really helpful
+to make sure everyone gets a chance to be heard.
   
 
  
@@ -149,7 +150,7 @@ I'm curious about the file tracking system that Ileana mentioned for her workflo
 
 *What are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
 
-  
+ I like when I see that files are easy to find in any computer system. I want an easy way to store and move files. I'd like to have a good way to share data sets that I create publicly.  
 
  
 
@@ -222,13 +223,15 @@ I'm curious about the file tracking system that Ileana mentioned for her workflo
 
 ## What are some of your values?
 
+I value making a positive impact in the world, learning, and sharing what I know. Sometimes I say my values are family, service, and knowledge.
+
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 <!---p.3--->
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
 
-
+I really enjoy brainstorming and building off ideas with other people. I like to think creatively to solve problems and work together to solve more that I could by myself.
   
 
  
@@ -260,6 +263,8 @@ I'm curious about the file tracking system that Ileana mentioned for her workflo
 
 ## How do your values show up in your workflow, and how you interact with colleagues?
 
+My values show up in my workflow because I try to include other people in my workflows and figure out how to share what I've learned.
+
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 
@@ -267,7 +272,8 @@ I'm curious about the file tracking system that Ileana mentioned for her workflo
 
 *How do you show up in your daily life at work? For example, being on time, being organized, interacting with people.*
 
-
+I try to show up in my daily life at work by staying organized, listening, and making sure to give credit to the work of others. I also look for ways 
+to make the place I work better than when I found it.
 
  
 
@@ -300,13 +306,16 @@ I'm curious about the file tracking system that Ileana mentioned for her workflo
 
 ## What would it look like to connect your values more with your workflow?
 
+It would be great to make my workflows more open and more collaborative. I want to increase the impact of my workflows too.
+
 ::: {.callout-caution appearance="minimal" icon="false"}
 
 <!---p.4--->
 
 *Think about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this*
 
-  
+Bringing what I've seen, want to learn, and my values on the place I want to focus would make a way for me to highlight the work I've done and also make it accessible to others.
+The problems we are facing in the world are too big to face alone.
 
  
 
