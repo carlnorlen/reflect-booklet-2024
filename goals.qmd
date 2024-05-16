@@ -9,7 +9,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 <!---p.1--->
 
 *What drives you? Who are your allies, colleagues, and mentors that give you energy and support?*
-
+Service, learning, and working together drive me. At work some allies, colleagues, and mentors are Crista, Iris, Kelly, and Nadia and Miguel from WGSC. It would be good to expand my network of allies, colleagues, and mentors especially related to creating actionable science. It would also be nice to have more interaction during my work day like accountability buddies or a co-working space. 
  
 
  
@@ -67,7 +67,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *Dream big. Why are you committed to these goals?*
 
-  
+The goals that are emerging are to be more open and collaborative in my workflow because I want to find more ways to connect with people while I'm working and to make a positive impact on people's lives in my community and in the world. It also feels better to me to work together and we can accomplish more that way. I would like that to be a bigger part of my workflow and general day to day life. The big goal I have is facilitating more effective action on climate change by better linking practitioners to information to plan and implement climate solutions. 
 
  
 
@@ -104,7 +104,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 <!---p.2--->
 
 *What are the possibilities? And what are the barriers? What questions do you need answered, what conversations do you need to have?*
-
+I can block off dedicated time to work on things and decline meetings before 10 am. For some meetings they are at an existing time (8 am) and it is hard for me to join those. Which of those meetings can I miss and which do I have to join. Can I limit which days I allow myself to do meetings earlier in the morning? I need to talk with my colleagues about when we schedule meetings. I also need to ask about which slides can be shared publicly from government presentations.
   
 
  
@@ -144,7 +144,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What would you like to experiment with? Where is a place you could try something new? For example - if I feel behind every morning, what would it look like to not set meetings before 10am?*
 
-
+I woudl like to experiment with github Large File Storage system. I can start declining meetings before 10 am on Monday, Weds, and Friday. If that goes well I can expand that to other days. I can start tracking my data files in git with the Large File Storage system. I can start using running documents for meetings with notes.
   
 
  
@@ -224,7 +224,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 
 *What feedback would you need from yourself to know if your actions/ experiment is working or needs to be iterated? How can you give yourself grace?*
 
-
+I need feedback from myself on how I am feeling and what I am getting accomplished. I also need feedback on how using my workflow feels to me. I can give myself grace by trying things and allowing myself to say whether or not I like them. I can give myself grace by allowing time to see whether workflows are working for me.
   
 
  
@@ -263,7 +263,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 <!---p.4--->
 
 *What support or accountability could help you? For example, journaling or sharing progress with a colleague for a set period of time*
-
+Journaling in my passion planner would help with accountability. Sharing my progress with a colleague could also be help. I want to try dedicating at least 5 minutes each morning and 30 minutes on Mondays to working in my passion planner. 
   
 
  
@@ -299,7 +299,7 @@ Our purpose today is to set some goals for yourself that you can act on this sum
 ::: {.callout-tip appearance="minimal" icon="false"}
 
 <!---p.5--->
-
+I'm excited about the Salish Kootenai event and finishing up my chapter 3 manuscript.
 
   
 
